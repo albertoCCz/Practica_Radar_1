@@ -7,9 +7,12 @@ escenarios nubosos sobre la ciudad de Granada.
 **Días a analizar: 12, 30 de sept y 22 de oct**
 
 1. Con las gráficas de Z, Mean Doppler Velocity y LDR.
-	- Analizar los tres días.
+	- [x] Analizar los tres días.
 2. Gráfica de Quicklook and average
-	- 
+	- [ ] Analizar día con cirro (Lucía)
 3. Gráfica de Profiling azul
+	- [ ] Analizar periodo con lluvia (Lucía)
 4. Con la gráfica de Z
+	- [x] Analizar periodos plancton
 5. Con las gráficas de Z y de Mean Doppler Velocity
+	- [x] Analizar periodo con tope de nube no fiable
